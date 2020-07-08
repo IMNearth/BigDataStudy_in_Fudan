@@ -36,7 +36,7 @@ However, please do not plagiarize any reports and materials. All information is 
 
 |                                                              | Content                                                      |
 | :----------------------------------------------------------: | ------------------------------------------------------------ |
-|               BioSTAT-1.pdf<br/>BioSTAT-2.pdf                | Review of the course content.<br/>1: statistical theory <br/>2: clinical trials |
+|                BioSTAT-1.pdf , BioSTAT-2.pdf                 | Review of the course content.<br/>1: statistical theory <br/>2: clinical trials |
 | report_hw1.pdf<br/>report_hw2.pdf<br/>report_hw3.pdf<br/>and files end with ".R" | Answers to the homework. <br/> Just for your reference.      |
 
 
@@ -45,8 +45,8 @@ However, please do not plagiarize any reports and materials. All information is 
 
 |                                                              | Content                                                      |
 | :----------------------------------------------------------: | ------------------------------------------------------------ |
-| [project1](https://github.com/IMNearth/BigDataStudy_in_Fudan/tree/master/2019-2020/03_DeepLearning/project1) | Project of MATLAB. <br/>(手写MLP，CNN及梯度反向传播)<br/>Both report and codes are provided. |
-| [project2](https://github.com/IMNearth/BigDataStudy_in_Fudan/tree/master/2019-2020/03_DeepLearning/project2) | Project of Image Classification.<br/>(CIFAR10数据集，CNN: ResNet, VGG16)<br/>Both report and codes are provided. |
-| [project3](https://github.com/IMNearth/BigDataStudy_in_Fudan/tree/master/2019-2020/03_DeepLearning/project3) | Project of 3D Object Classification. <br/>(ModelNet40数据集，CNN: PointNet, PointNet++)<br/>Both report and codes are provided. |
-|                        final_project                         | Project of Scene Text Recognition. <br/>(ICDAR2019数据集，CNN+RNN: YOLOv5, EAST, CRNN)<br/>ONLY report is provided. |
+| [project1](https://github.com/IMNearth/BigDataStudy_in_Fudan/tree/master/2019-2020/03_DeepLearning/project1)<br/>Both report and codes are provided. | Project of MATLAB. <br/>(手写MLP，CNN及梯度反向传播)         |
+| [project2](https://github.com/IMNearth/BigDataStudy_in_Fudan/tree/master/2019-2020/03_DeepLearning/project2)<br/>Both report and codes are provided. | Project of Image Classification.<br/>(CIFAR10数据集，CNN: ResNet, VGG16) |
+| [project3](https://github.com/IMNearth/BigDataStudy_in_Fudan/tree/master/2019-2020/03_DeepLearning/project3)<br/>Both report and codes are provided. | Project of 3D Object Classification. <br/>(ModelNet40数据集，CNN: PointNet, PointNet++) |
+| [final_project](https://github.com/IMNearth/BigDataStudy_in_Fudan/tree/master/2019-2020/03_DeepLearning/final_report)<br/>ONLY report is provided. | Project of Scene Text Recognition. <br/>(ICDAR2019数据集，CNN+RNN: YOLOv5, EAST, CRNN) |
 

@@ -6,6 +6,7 @@ Some project reports and course materials will be released for the purpose of sh
 However, please do not plagiarize any reports and materials. All information is for academic use only.
 
 
+  
 
 ### Folder: 2018-2019
 
@@ -20,6 +21,7 @@ However, please do not plagiarize any reports and materials. All information is 
 [Report](https://github.com/IMNearth/BigDataStudy_in_Fudan/blob/master/2018-2019/AI-repo-formal.pdf) of final Gomoku project is for your reference.
 
 
+  
 
 ### Folder: 2019-2020
 

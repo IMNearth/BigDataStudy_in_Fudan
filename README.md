@@ -6,26 +6,26 @@ Some project reports and course materials will be released for the purpose of sh
 However, please do not plagiarize any reports and materials. All information is for academic use only.
 
 
-  
 
-### Folder: 2018-2019
 
-#### 01 Social Media Mining
+## Folder: 2018-2019
+
+### 01 Social Media Mining
 
 [Report](https://github.com/IMNearth/BigDataStudy_in_Fudan/blob/master/2018-2019/0626Twitter-report-new.pdf) of final project is for your reference.
 
 
 
-#### 02 Introduction to Artificial Intelligence
+### 02 Introduction to Artificial Intelligence
 
 [Report](https://github.com/IMNearth/BigDataStudy_in_Fudan/blob/master/2018-2019/AI-repo-formal.pdf) of final Gomoku project is for your reference.
 
 
-  
 
-### Folder: 2019-2020
 
-#### 01 [Big Data Analytics](https://github.com/IMNearth/BigDataStudy_in_Fudan/tree/master/2019-2020/01_BigDataAnalytics)
+## Folder: 2019-2020
+
+### 01 [Big Data Analytics](https://github.com/IMNearth/BigDataStudy_in_Fudan/tree/master/2019-2020/01_BigDataAnalytics)
 
 |                                                              | Content                                                      |
 | :----------------------------------------------------------: | ------------------------------------------------------------ |
@@ -34,7 +34,7 @@ However, please do not plagiarize any reports and materials. All information is 
 
 
 
-#### 02 [Biostatistics](https://github.com/IMNearth/BigDataStudy_in_Fudan/tree/master/2019-2020/02_Biostatistics)
+### 02 [Biostatistics](https://github.com/IMNearth/BigDataStudy_in_Fudan/tree/master/2019-2020/02_Biostatistics)
 
 |                                                              | Content                                                      |
 | :----------------------------------------------------------: | ------------------------------------------------------------ |
@@ -43,7 +43,7 @@ However, please do not plagiarize any reports and materials. All information is 
 
 
 
-#### 03 [Neural Networks and Deep Learning](https://github.com/IMNearth/BigDataStudy_in_Fudan/tree/master/2019-2020/03_DeepLearning)
+### 03 [Neural Networks and Deep Learning](https://github.com/IMNearth/BigDataStudy_in_Fudan/tree/master/2019-2020/03_DeepLearning)
 
 |                                                              | Content                                                      |
 | :----------------------------------------------------------: | ------------------------------------------------------------ |
@@ -51,4 +51,10 @@ However, please do not plagiarize any reports and materials. All information is 
 | [project2](https://github.com/IMNearth/BigDataStudy_in_Fudan/tree/master/2019-2020/03_DeepLearning/project2)<br/>Both report and codes are provided. | Project of Image Classification.<br/>(CIFAR10数据集，CNN: ResNet, VGG16) |
 | [project3](https://github.com/IMNearth/BigDataStudy_in_Fudan/tree/master/2019-2020/03_DeepLearning/project3)<br/>Both report and codes are provided. | Project of 3D Object Classification. <br/>(ModelNet40数据集，CNN: PointNet, PointNet++) |
 | [final_project](https://github.com/IMNearth/BigDataStudy_in_Fudan/tree/master/2019-2020/03_DeepLearning/final_report)<br/>ONLY report is provided. | Project of Scene Text Recognition. <br/>(ICDAR2019数据集，CNN+RNN: YOLOv5, EAST, CRNN) |
+
+
+
+### 04 Big Data Economic Final
+
+Final Project：[手机基站信息的经济分析](https://github.com/FDU-SDS/Big_Data_Economic_Course_Final) . Both report and codes are provided for your reference.
 

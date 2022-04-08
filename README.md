@@ -3,7 +3,7 @@ This repository is used to record the courses I have taken in Fudan.
 
 Some project reports and course materials will be released for the purpose of sharing.
 
-However, please do not plagiarize any reports and materials. All information is for academic use only.
+However, please do not plagiarize any reports and materials. All information is for study use only.
 
 
 

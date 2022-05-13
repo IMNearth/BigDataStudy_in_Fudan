@@ -52,7 +52,7 @@ We record the loss by tensorboardx during traning, you can visualize the learnin
 
 #### Evaluate
 
-Downloard trained model weight from [here](https://pan.baidu.com/s/1sJ9knZG0WJQgs0HZ7NcJfw) with extract code $\text{\color{blue}6epb}$, then run
+Downloard trained model weight from [here](https://pan.baidu.com/s/1sJ9knZG0WJQgs0HZ7NcJfw) with extract code $\text{6epb}$, then run
 
 ```shell
 python main.py --mode "eval" --classifier 'resnet50' \
@@ -130,13 +130,13 @@ python train.py
 
 We record the loss by tensorboardx, you can visualize the learning curve like this.
 
-<img src="./teaser/yolov3_learning_curve.png" style="zoom:50%;" />
+<img src="./teaser/yolov3_learning_curve.png" style="zoom:20%;" />
 
 
 
 #### Evaluate
 
-Download trained model weights from [here](https://pan.baidu.com/s/1YIIQAI_bCGiXI_eSsxpnFA) with extract code $\text{\color{blue}c63g}$, then run
+Download trained model weights from [here](https://pan.baidu.com/s/1YIIQAI_bCGiXI_eSsxpnFA) with extract code $\text{c63g}$, then run
 
 ```shell
 python test.py \

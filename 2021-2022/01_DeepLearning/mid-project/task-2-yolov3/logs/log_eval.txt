@@ -1,0 +1,155 @@
+2022-05-05 06:15:40,408 YoloV3.gpu INFO: Using CUDA device0 _CudaDeviceProperties(name='GeForce RTX 2080 Ti', total_memory=10989MB)
+2022-05-05 06:15:40,408 YoloV3.gpu INFO:            device1 _CudaDeviceProperties(name='GeForce RTX 2080 Ti', total_memory=10989MB)
+2022-05-05 06:15:40,418 YoloV3.gpu INFO:            device2 _CudaDeviceProperties(name='GeForce RTX 2080 Ti', total_memory=10989MB)
+2022-05-05 06:15:40,418 YoloV3.gpu INFO:            device3 _CudaDeviceProperties(name='GeForce RTX 2080 Ti', total_memory=10989MB)
+2022-05-05 06:16:53,576 YoloV3 INFO: Loading weight file from : outputs/2022-0504-05:14/last_mAP:0.8.pt
+2022-05-05 06:17:32,476 YoloV3 INFO: Loading weight file is done!
+2022-05-05 06:17:32,478 YoloV3 INFO: ******************** Validate ********************
+2022-05-05 07:07:53,825 YoloV3 INFO: aeroplane --> mAP : 0.9134796349602815
+2022-05-05 07:07:53,826 YoloV3 INFO: bicycle --> mAP : 0.920333535796217
+2022-05-05 07:07:53,826 YoloV3 INFO: bird --> mAP : 0.8739851130164062
+2022-05-05 07:07:53,826 YoloV3 INFO: boat --> mAP : 0.7374306774675548
+2022-05-05 07:07:53,826 YoloV3 INFO: bottle --> mAP : 0.7426701806569973
+2022-05-05 07:07:53,826 YoloV3 INFO: bus --> mAP : 0.8909289260486051
+2022-05-05 07:07:53,827 YoloV3 INFO: car --> mAP : 0.9271067962976929
+2022-05-05 07:07:53,827 YoloV3 INFO: cat --> mAP : 0.9149907918903522
+2022-05-05 07:07:53,827 YoloV3 INFO: chair --> mAP : 0.6844319456038892
+2022-05-05 07:07:53,827 YoloV3 INFO: cow --> mAP : 0.9054511349837809
+2022-05-05 07:07:53,827 YoloV3 INFO: diningtable --> mAP : 0.7566771488748273
+2022-05-05 07:07:53,827 YoloV3 INFO: dog --> mAP : 0.917560916879379
+2022-05-05 07:07:53,827 YoloV3 INFO: horse --> mAP : 0.9271552779104915
+2022-05-05 07:07:53,827 YoloV3 INFO: motorbike --> mAP : 0.8768323572627881
+2022-05-05 07:07:53,827 YoloV3 INFO: person --> mAP : 0.8870006255280543
+2022-05-05 07:07:53,827 YoloV3 INFO: pottedplant --> mAP : 0.5881267467253019
+2022-05-05 07:07:53,828 YoloV3 INFO: sheep --> mAP : 0.8860994841470664
+2022-05-05 07:07:53,828 YoloV3 INFO: sofa --> mAP : 0.772584436567701
+2022-05-05 07:07:53,828 YoloV3 INFO: train --> mAP : 0.8806472775947343
+2022-05-05 07:07:53,828 YoloV3 INFO: tvmonitor --> mAP : 0.8439479186056449
+2022-05-05 07:07:53,828 YoloV3 INFO: mAP:0.842372
+
+
+2022-05-05 14:39:29,478 YoloV3 INFO: Namespace(conf_thresh=0.1, eval=True, gpu_id=0, iou_thresh=0.75, output_path='./outputs', visiual=False, weight_path='outputs/2022-0504-05:14/last_mAP:0.8.pt')
+2022-05-05 14:39:29,573 YoloV3.gpu INFO: Using CUDA device0 _CudaDeviceProperties(name='GeForce RTX 2080 Ti', total_memory=10989MB)
+2022-05-05 14:39:29,573 YoloV3.gpu INFO:            device1 _CudaDeviceProperties(name='GeForce RTX 2080 Ti', total_memory=10989MB)
+2022-05-05 14:39:29,574 YoloV3.gpu INFO:            device2 _CudaDeviceProperties(name='GeForce RTX 2080 Ti', total_memory=10989MB)
+2022-05-05 14:39:29,574 YoloV3.gpu INFO:            device3 _CudaDeviceProperties(name='GeForce RTX 2080 Ti', total_memory=10989MB)
+2022-05-05 14:40:43,184 YoloV3 INFO: Loading weight file from : outputs/2022-0504-05:14/last_mAP:0.8.pt
+2022-05-05 14:41:26,192 YoloV3 INFO: Loading weight file is done!
+2022-05-05 14:41:26,194 YoloV3 INFO: ******************** Validate ********************
+2022-05-05 15:19:51,486 YoloV3 INFO: aeroplane --> mAP : 0.3722
+2022-05-05 15:19:51,487 YoloV3 INFO: bicycle --> mAP : 0.6008
+2022-05-05 15:19:51,487 YoloV3 INFO: bird --> mAP : 0.3646
+2022-05-05 15:19:51,487 YoloV3 INFO: boat --> mAP : 0.2471
+2022-05-05 15:19:51,487 YoloV3 INFO: bottle --> mAP : 0.3443
+2022-05-05 15:19:51,487 YoloV3 INFO: bus --> mAP : 0.6039
+2022-05-05 15:19:51,487 YoloV3 INFO: car --> mAP : 0.6829
+2022-05-05 15:19:51,487 YoloV3 INFO: cat --> mAP : 0.5848
+2022-05-05 15:19:51,488 YoloV3 INFO: chair --> mAP : 0.3036
+2022-05-05 15:19:51,488 YoloV3 INFO: cow --> mAP : 0.6052
+2022-05-05 15:19:51,488 YoloV3 INFO: diningtable --> mAP : 0.3361
+2022-05-05 15:19:51,488 YoloV3 INFO: dog --> mAP : 0.5226
+2022-05-05 15:19:51,488 YoloV3 INFO: horse --> mAP : 0.5688
+2022-05-05 15:19:51,488 YoloV3 INFO: motorbike --> mAP : 0.5113
+2022-05-05 15:19:51,488 YoloV3 INFO: person --> mAP : 0.4723
+2022-05-05 15:19:51,488 YoloV3 INFO: pottedplant --> mAP : 0.1679
+2022-05-05 15:19:51,488 YoloV3 INFO: sheep --> mAP : 0.5370
+2022-05-05 15:19:51,488 YoloV3 INFO: sofa --> mAP : 0.4699
+2022-05-05 15:19:51,488 YoloV3 INFO: train --> mAP : 0.5291
+2022-05-05 15:19:51,489 YoloV3 INFO: tvmonitor --> mAP : 0.5618
+2022-05-05 15:19:51,489 YoloV3 INFO: mAP:0.469311
+2022-05-05 15:19:51,489 YoloV3 INFO: 
+
+2022-05-05 15:24:03,480 YoloV3 INFO: Namespace(conf_thresh=0.1, eval=True, gpu_id=0, iou_thresh=0.95, output_path='./outputs', visiual=False, weight_path='outputs/2022-0504-05:14/last_mAP:0.8.pt')
+2022-05-05 15:24:03,542 YoloV3.gpu INFO: Using CUDA device0 _CudaDeviceProperties(name='GeForce RTX 2080 Ti', total_memory=10989MB)
+2022-05-05 15:24:03,542 YoloV3.gpu INFO:            device1 _CudaDeviceProperties(name='GeForce RTX 2080 Ti', total_memory=10989MB)
+2022-05-05 15:24:03,543 YoloV3.gpu INFO:            device2 _CudaDeviceProperties(name='GeForce RTX 2080 Ti', total_memory=10989MB)
+2022-05-05 15:24:03,544 YoloV3.gpu INFO:            device3 _CudaDeviceProperties(name='GeForce RTX 2080 Ti', total_memory=10989MB)
+2022-05-05 15:24:13,641 YoloV3 INFO: Loading weight file from : outputs/2022-0504-05:14/last_mAP:0.8.pt
+2022-05-05 15:24:14,281 YoloV3 INFO: Loading weight file is done!
+2022-05-05 15:24:14,283 YoloV3 INFO: ******************** Validate ********************
+2022-05-05 16:03:22,727 YoloV3 INFO: aeroplane --> mAP : 0.0011
+2022-05-05 16:03:22,728 YoloV3 INFO: bicycle --> mAP : 0.0001
+2022-05-05 16:03:22,728 YoloV3 INFO: bird --> mAP : 0.0006
+2022-05-05 16:03:22,728 YoloV3 INFO: boat --> mAP : 0.0010
+2022-05-05 16:03:22,728 YoloV3 INFO: bottle --> mAP : 0.0001
+2022-05-05 16:03:22,728 YoloV3 INFO: bus --> mAP : 0.0002
+2022-05-05 16:03:22,729 YoloV3 INFO: car --> mAP : 0.0013
+2022-05-05 16:03:22,729 YoloV3 INFO: cat --> mAP : 0.0002
+2022-05-05 16:03:22,729 YoloV3 INFO: chair --> mAP : 0.0004
+2022-05-05 16:03:22,729 YoloV3 INFO: cow --> mAP : 0.0002
+2022-05-05 16:03:22,729 YoloV3 INFO: diningtable --> mAP : 0.0002
+2022-05-05 16:03:22,729 YoloV3 INFO: dog --> mAP : 0.0007
+2022-05-05 16:03:22,729 YoloV3 INFO: horse --> mAP : 0.0012
+2022-05-05 16:03:22,729 YoloV3 INFO: motorbike --> mAP : 0.0000
+2022-05-05 16:03:22,729 YoloV3 INFO: person --> mAP : 0.0007
+2022-05-05 16:03:22,729 YoloV3 INFO: pottedplant --> mAP : 0.0001
+2022-05-05 16:03:22,729 YoloV3 INFO: sheep --> mAP : 0.0030
+2022-05-05 16:03:22,729 YoloV3 INFO: sofa --> mAP : 0.0006
+2022-05-05 16:03:22,730 YoloV3 INFO: train --> mAP : 0.0005
+2022-05-05 16:03:22,730 YoloV3 INFO: tvmonitor --> mAP : 0.0004
+2022-05-05 16:03:22,730 YoloV3 INFO: mAP:0.000636996
+2022-05-05 16:03:22,730 YoloV3 INFO: 
+
+2022-05-06 01:44:20,812 YoloV3 INFO: Namespace(conf_thresh=0.1, eval=True, gpu_id=0, iou_thresh=0.25, output_path='./outputs', visiual=False, weight_path='outputs/2022-0504-05:14/last_mAP:0.8.pt')
+2022-05-06 01:44:20,874 YoloV3.gpu INFO: Using CUDA device0 _CudaDeviceProperties(name='GeForce RTX 2080 Ti', total_memory=10989MB)
+2022-05-06 01:44:20,874 YoloV3.gpu INFO:            device1 _CudaDeviceProperties(name='GeForce RTX 2080 Ti', total_memory=10989MB)
+2022-05-06 01:44:20,875 YoloV3.gpu INFO:            device2 _CudaDeviceProperties(name='GeForce RTX 2080 Ti', total_memory=10989MB)
+2022-05-06 01:44:20,876 YoloV3.gpu INFO:            device3 _CudaDeviceProperties(name='GeForce RTX 2080 Ti', total_memory=10989MB)
+2022-05-06 01:44:31,329 YoloV3 INFO: Loading weight file from : outputs/2022-0504-05:14/last_mAP:0.8.pt
+2022-05-06 01:44:32,058 YoloV3 INFO: Loading weight file is done!
+2022-05-06 01:44:32,060 YoloV3 INFO: ******************** Validate ********************
+2022-05-06 02:19:23,945 YoloV3 INFO: aeroplane --> mAP : 0.9378
+2022-05-06 02:19:23,946 YoloV3 INFO: bicycle --> mAP : 0.9441
+2022-05-06 02:19:23,946 YoloV3 INFO: bird --> mAP : 0.9039
+2022-05-06 02:19:23,946 YoloV3 INFO: boat --> mAP : 0.8273
+2022-05-06 02:19:23,946 YoloV3 INFO: bottle --> mAP : 0.7850
+2022-05-06 02:19:23,946 YoloV3 INFO: bus --> mAP : 0.8980
+2022-05-06 02:19:23,946 YoloV3 INFO: car --> mAP : 0.9446
+2022-05-06 02:19:23,946 YoloV3 INFO: cat --> mAP : 0.9305
+2022-05-06 02:19:23,946 YoloV3 INFO: chair --> mAP : 0.7376
+2022-05-06 02:19:23,946 YoloV3 INFO: cow --> mAP : 0.9239
+2022-05-06 02:19:23,946 YoloV3 INFO: diningtable --> mAP : 0.7892
+2022-05-06 02:19:23,946 YoloV3 INFO: dog --> mAP : 0.9366
+2022-05-06 02:19:23,946 YoloV3 INFO: horse --> mAP : 0.9351
+2022-05-06 02:19:23,947 YoloV3 INFO: motorbike --> mAP : 0.9184
+2022-05-06 02:19:23,947 YoloV3 INFO: person --> mAP : 0.9345
+2022-05-06 02:19:23,947 YoloV3 INFO: pottedplant --> mAP : 0.6971
+2022-05-06 02:19:23,947 YoloV3 INFO: sheep --> mAP : 0.9081
+2022-05-06 02:19:23,947 YoloV3 INFO: sofa --> mAP : 0.8042
+2022-05-06 02:19:23,947 YoloV3 INFO: train --> mAP : 0.9204
+2022-05-06 02:19:23,947 YoloV3 INFO: tvmonitor --> mAP : 0.8634
+2022-05-06 02:19:23,947 YoloV3 INFO: mAP:0.876984
+2022-05-06 02:19:23,948 YoloV3 INFO: 
+
+2022-05-06 05:55:23,823 YoloV3 INFO: Namespace(conf_thresh=0.1, eval=False, gpu_id=0, iou_thresh=0.5, output_path='./outputs', visual=True, weight_path='outputs/2022-0504-05:14/last_mAP:0.8.pt')
+2022-05-06 05:55:23,888 YoloV3.gpu INFO: Using CUDA device0 _CudaDeviceProperties(name='GeForce RTX 2080 Ti', total_memory=10989MB)
+2022-05-06 05:55:23,888 YoloV3.gpu INFO:            device1 _CudaDeviceProperties(name='GeForce RTX 2080 Ti', total_memory=10989MB)
+2022-05-06 05:55:23,889 YoloV3.gpu INFO:            device2 _CudaDeviceProperties(name='GeForce RTX 2080 Ti', total_memory=10989MB)
+2022-05-06 05:55:23,890 YoloV3.gpu INFO:            device3 _CudaDeviceProperties(name='GeForce RTX 2080 Ti', total_memory=10989MB)
+2022-05-06 05:56:40,101 YoloV3 INFO: Loading weight file from : outputs/2022-0504-05:14/last_mAP:0.8.pt
+2022-05-06 05:57:23,071 YoloV3 INFO: Loading weight file is done!
+2022-05-06 05:59:00,170 YoloV3 INFO: Namespace(conf_thresh=0.1, eval=False, gpu_id=0, iou_thresh=0.5, output_path='./outputs', visual=True, weight_path='outputs/2022-0504-05:14/last_mAP:0.8.pt')
+2022-05-06 05:59:00,235 YoloV3.gpu INFO: Using CUDA device0 _CudaDeviceProperties(name='GeForce RTX 2080 Ti', total_memory=10989MB)
+2022-05-06 05:59:00,236 YoloV3.gpu INFO:            device1 _CudaDeviceProperties(name='GeForce RTX 2080 Ti', total_memory=10989MB)
+2022-05-06 05:59:00,236 YoloV3.gpu INFO:            device2 _CudaDeviceProperties(name='GeForce RTX 2080 Ti', total_memory=10989MB)
+2022-05-06 05:59:00,236 YoloV3.gpu INFO:            device3 _CudaDeviceProperties(name='GeForce RTX 2080 Ti', total_memory=10989MB)
+2022-05-06 05:59:10,502 YoloV3 INFO: Loading weight file from : outputs/2022-0504-05:14/last_mAP:0.8.pt
+2022-05-06 05:59:11,083 YoloV3 INFO: Loading weight file is done!
+2022-05-06 05:59:13,368 YoloV3 INFO: Test images : outputs/images/other_images/org_0001.jpeg ==> Saved images : ./outputs/images/processed_org_0001.jpg
+2022-05-06 05:59:13,511 YoloV3 INFO: Test images : outputs/images/other_images/org_0002.jpeg ==> Saved images : ./outputs/images/processed_org_0002.jpg
+2022-05-06 05:59:13,757 YoloV3 INFO: Test images : outputs/images/other_images/org_0003.jpeg ==> Saved images : ./outputs/images/processed_org_0003.jpg
+2022-05-06 05:59:13,758 YoloV3 INFO: 
+
+2022-05-06 06:01:49,259 YoloV3 INFO: Namespace(conf_thresh=0.1, eval=False, gpu_id=0, iou_thresh=0.5, output_path='./outputs', visual=True, weight_path='outputs/2022-0504-05:14/last_mAP:0.8.pt')
+2022-05-06 06:01:49,334 YoloV3.gpu INFO: Using CUDA device0 _CudaDeviceProperties(name='GeForce RTX 2080 Ti', total_memory=10989MB)
+2022-05-06 06:01:49,335 YoloV3.gpu INFO:            device1 _CudaDeviceProperties(name='GeForce RTX 2080 Ti', total_memory=10989MB)
+2022-05-06 06:01:49,336 YoloV3.gpu INFO:            device2 _CudaDeviceProperties(name='GeForce RTX 2080 Ti', total_memory=10989MB)
+2022-05-06 06:01:49,337 YoloV3.gpu INFO:            device3 _CudaDeviceProperties(name='GeForce RTX 2080 Ti', total_memory=10989MB)
+2022-05-06 06:01:59,203 YoloV3 INFO: Loading weight file from : outputs/2022-0504-05:14/last_mAP:0.8.pt
+2022-05-06 06:01:59,876 YoloV3 INFO: Loading weight file is done!
+2022-05-06 06:02:00,101 YoloV3 INFO: Test images : outputs/images/other_images/org_0001.jpeg ==> Saved images : ./outputs/images/processed_org_0001.jpg
+2022-05-06 06:02:00,259 YoloV3 INFO: Test images : outputs/images/other_images/org_0002.jpeg ==> Saved images : ./outputs/images/processed_org_0002.jpg
+2022-05-06 06:02:00,508 YoloV3 INFO: Test images : outputs/images/other_images/org_0003.jpeg ==> Saved images : ./outputs/images/processed_org_0003.jpg
+2022-05-06 06:02:00,688 YoloV3 INFO: Test images : outputs/images/other_images/org_0004.jpeg ==> Saved images : ./outputs/images/processed_org_0004.jpg
+2022-05-06 06:02:00,689 YoloV3 INFO: 
+

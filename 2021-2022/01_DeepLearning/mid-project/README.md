@@ -130,7 +130,7 @@ python train.py
 
 We record the loss by tensorboardx, you can visualize the learning curve like this.
 
-<img src="./teaser/yolov3_learning_curve.png" style="zoom:20%;" />
+![](./teaser/yolov3_learning_curve.png)
 
 
 
